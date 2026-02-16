@@ -20,6 +20,19 @@ It includes user management, dynamic roles/permissions generation, and a scalabl
 
 ---
 
+## 🎨 Preview
+
+### Landing Page
+![Landing Page](public/landing.png)
+
+### Login & Authentication
+![Login Page](public/login.png)
+
+### Roles & Permissions Management
+![Roles Management](public/roles.png)
+
+---
+
 ## 📦 Installation & Setup
 
 Follow these steps to set up the project in your local environment.
@@ -121,6 +134,9 @@ Open your browser and visit:
 👉 http://localhost:8000/admin
 
 Log in using the credentials created during setup.
+
+**Admin Dashboard & User Interface:**
+![Admin Dashboard](public/roles.png)
 
 ---
 

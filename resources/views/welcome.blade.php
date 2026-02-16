@@ -77,7 +77,7 @@
                 </ul>
 
                 <div class="flex gap-3">
-                    <a href="https://github.com/tu-usuario/fsk" class="px-6 py-2 bg-[#1b1b18] dark:bg-[#eeeeec] text-white dark:text-[#1C1C1A] rounded-md font-medium hover:opacity-90 transition-all">
+                    <a href="https://github.com/javierDev03/Filament-Starter-Kit-with-Roles-and-Permissions" class="px-6 py-2 bg-[#1b1b18] dark:bg-[#eeeeec] text-white dark:text-[#1C1C1A] rounded-md font-medium hover:opacity-90 transition-all">
                         View on GitHub
                     </a>
                     <a href="/admin" class="px-6 py-2 border border-[#e3e3e0] dark:border-[#3E3E3A] rounded-md font-medium hover:bg-gray-50 dark:hover:bg-[#1e1e1d] transition-all">
